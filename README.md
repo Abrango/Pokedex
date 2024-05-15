@@ -1,8 +1,7 @@
 # Pokedex
-Por supuesto, aquí tienes un tutorial paso a paso sobre cómo crear una cuenta en la nube pública de Azure utilizando una cuenta institucional:
 
-##Paso 1
-###Accede al sitio web de Azure
+## Paso 1
+### Accede al sitio web de Azure
 Dirígete a la página principal de Microsoft Azure en tu navegador web. Puedes encontrarla fácilmente buscando "Azure" en tu motor de búsqueda preferido.
 
 ##Paso 2 
