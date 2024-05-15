@@ -32,7 +32,8 @@ Azure ofrece varios planes de suscripción. Elige el plan que mejor se adapte a 
 ### Proporciona la información de facturación (si es necesario)
 Si tu organización requiere una suscripción de pago, deberás proporcionar la información de facturación correspondiente, como la dirección y los detalles de la tarjeta de crédito.
 
-**Paso 9: Acepta los términos y condiciones**
+## Paso 9
+### Acepta los términos y condiciones
 Lee y acepta los términos de servicio y la política de privacidad de Azure.
 
 ## Paso 10
