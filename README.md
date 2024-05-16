@@ -16,8 +16,10 @@ Revisamos los encabezados de seguridad una vez se hayan guardado los cambios, ve
 
 
 ## Portafolio de integrantes
+
 Aurys Patricia Brango De Meza
 https://patitoflow.blob.core.windows.net/patitoaurys/index.html#experiencia
+
 Gary Montes Bracamontes
 https://garymontes.azurewebsites.net/
 
