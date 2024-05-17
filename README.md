@@ -53,3 +53,9 @@ Accedemos a la configuración de la aplicación en Azure, configuramos los encab
 ## Paso 4
 ### Revisamos los encabezados de seguridad una vez que se hayan guardado los cambios, verificamos que los encabezados de seguridad se están aplicando correctamente utilizando la herramienta en línea https://securityheaders.com/.
 Revisamos los encabezados de seguridad una vez que se hayan guardado los cambios, verificamos que los encabezados de seguridad se están aplicando correctamente utilizando la herramienta en línea https://securityheaders.com/ .
+
+# Portafolios
+Aurys: https://patitoflow.blob.core.windows.net/patitoaurys/index.html
+Gary: https://garymontes.azurewebsites.net/
+
+
