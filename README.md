@@ -34,3 +34,22 @@ npm start
 - [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
 - [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
 - [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+
+# Paso a paso
+## Paso 1
+### Preparación de la aplicación
+Preparación de la aplicación
+Nos aseguramos de que la aplicación esté lista para ser desplegada y que funcione correctamente localmente.
+
+## Paso 2
+### Accedemos al Portal de Azure e iniciamos sesión en el Portal de Azure, seleccionamos la instancia de App Service y seleccionamos donde se desea implementar la aplicación.
+Accedemos al Portal de Azure e iniciamos sesión en el Portal de Azure, seleccionamos la instancia de App Service y seleccionamos donde se desea implementar la aplicación.
+Utilizamos las opciones de despliegue del portal para subir la aplicación y confirmamos el despliegue.
+
+## Paso 3
+### Accedemos a la configuración de la aplicación en Azure, configuramos los encabezados de seguridad para obtener una calificación A en https://securityheaders.com/ 
+Accedemos a la configuración de la aplicación en Azure, configuramos los encabezados de seguridad para obtener una calificación A en https://securityheaders.com/ 
+
+## Paso 4
+### Revisamos los encabezados de seguridad una vez que se hayan guardado los cambios, verificamos que los encabezados de seguridad se están aplicando correctamente utilizando la herramienta en línea https://securityheaders.com/.
+Revisamos los encabezados de seguridad una vez que se hayan guardado los cambios, verificamos que los encabezados de seguridad se están aplicando correctamente utilizando la herramienta en línea https://securityheaders.com/ .
